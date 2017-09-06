@@ -1,0 +1,1 @@
+clones/a7ns/clone_info.mk
